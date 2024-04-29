@@ -1,0 +1,7 @@
+
+interface demo{
+	class sevan{
+	
+	}
+}
+
